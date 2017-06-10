@@ -15,4 +15,4 @@ class BlockContent extends React.Component {
 	}
 }
 
-ReactDOM.render(<BlockContent title="About page !" />, document.getElementById('main-container'));
+ReactDOM.render(<BlockContent title="About page hello!" />, document.getElementById('main-container'));
